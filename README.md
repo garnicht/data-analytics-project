@@ -2,6 +2,8 @@
 
 _Capstone Project for neuefische **Data Analytics** Bootcamp by [Helena Heil](https://github.com/heleah), [Leon Hocker](https://github.com/garnicht), [Sascha Müller](https://github.com/SaschaData)_
 
+[Presentation on Youtube.](https://www.youtube.com/watch?v=g-Bq_nQA4IQ)
+
 ## Description
 
 As a new small-business owner offering online statistics courses, Julian was wondering which way would help him grow best. Thanks to regular communication with him and data from the video hosting platform, not only did we find out what he should focus on, but also built a data pipeline, so he can easily analyze the data for future purposes.
